@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   rjd3nowcasting: rjd3nowcasting.html
-last_built: 2025-02-25T10:25Z
+last_built: 2025-03-06T15:56Z
 urls:
   reference: https://rjdverse.github.io/rjd3nowcasting/reference
   article: https://rjdverse.github.io/rjd3nowcasting/articles
